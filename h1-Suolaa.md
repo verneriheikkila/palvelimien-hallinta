@@ -21,3 +21,26 @@ https://terokarvinen.com/2023/salt-vagrant/
 - Asennusopas
 - Virtuaalikoneiden luonti
 - Saltin moduulijärjestelmä
+
+## a.)
+- Asensin Debian 11
+- Annoin sudo oikeudet käyttäjälle
+- Asensin Vagrantin
+- Asensin virtualboxin (ei onnistunut ohjeiden komennolla)
+(KUVA VAGRANTISTA)
+
+## b.)
+
+(KUVA VERKOSTA)
+
+## c.)
+
+(KUVA ORJISTA)
+
+## d.)
+
+(ESIMERKKI KUVAT)
+
+## e.)
+
+(INFRAA KOODINA)
