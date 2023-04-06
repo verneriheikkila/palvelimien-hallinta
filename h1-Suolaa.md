@@ -27,20 +27,11 @@ https://terokarvinen.com/2023/salt-vagrant/
 - Annoin sudo oikeudet käyttäjälle
 - Asensin Vagrantin
 - Asensin virtualboxin (ei onnistunut ohjeiden komennolla)
-(KUVA VAGRANTISTA)
-
+![kuva1](/kuvat/h1/1.png)
 ## b.)
+- Tein Vagrantfile tiedoston ohjeiden mukaisesti, mutta jostain syystä vagrant up komento ei saa ohjelmaa käynnistymään.
+![kuva3](/kuvat/h1/3.png)
 
-(KUVA VERKOSTA)
+## cde.)
 
-## c.)
-
-(KUVA ORJISTA)
-
-## d.)
-
-(ESIMERKKI KUVAT)
-
-## e.)
-
-(INFRAA KOODINA)
+- En kyennyt jatkamaan näihin osiin koska vagrant ei käynnisty.
